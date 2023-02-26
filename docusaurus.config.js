@@ -3,15 +3,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Djamaile Rahamat',
+  title: 'Manish Jaiswal',
   tagline:
-    'I like full-stack development. Also, I am interested in the cloud, coding & e-sports.',
-  url: 'https://djamaile.dev',
+    'Senior Technical Writer | Docs Consultant | Content Strategist.',
+  url: 'https://manishjaiswal.in',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'djamaile', // Usually your GitHub org/user name.
+  organizationName: 'jaiswalwrites', // Usually your GitHub org/user name.
   projectName: 'portfolio', // Usually your repo name.
   trailingSlash: true,
   plugins: [
@@ -77,18 +77,20 @@ module.exports = {
   ],
   themeConfig: {
     navbar: {
-      title: 'Djamaile Rahamat',
+      title: 'Manish Jaiswal',
       logo: {
         alt: 'My Site Logo',
         src: 'img/mob-2.png',
       },
       items: [
         { to: '/blog', label: 'Blog', position: 'left' },
+        { to: '/docs', label: 'Docs', position: 'left' },
         {
-          href: 'https://github.com/djamaile/portfolio',
+          href: 'https://github.com/jaiswalwrites',
           label: 'GitHub',
           position: 'right',
         },
+        
       ],
     },
     googleAnalytics: {
@@ -97,7 +99,7 @@ module.exports = {
     },
     footer: {
       style: 'light',
-      copyright: `Copyright © ${new Date().getFullYear()} Djamaile Rahamat, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Manish Jaiswal, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: lightCodeTheme,
@@ -116,7 +118,7 @@ module.exports = {
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl: 'https://github.com/djamaile/portfolio/edit/master/',
+          editUrl: 'https://github.com/jaiswalwrites/portfolio',
           feedOptions: {
             type: 'all',
           },

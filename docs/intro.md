@@ -1,5 +1,6 @@
 ---
-sidebar_position: 1
+title: My Hello World Document
+description: This is a simple introduction to Docusauru
 ---
 
 # Tutorial Intro

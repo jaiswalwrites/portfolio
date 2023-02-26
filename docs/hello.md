@@ -1,8 +1,9 @@
 ---
-sidebar_label: 'Hi!'
-sidebar_position: 3
+title: My Hello World Document
+description: This is a simple introduction to Docusaurus
+sidebar: '2'
 ---
 
-# Hello
+# Hello, world!
 
-This is my **first Docusaurus document**!
+This is my first Docusaurus document.

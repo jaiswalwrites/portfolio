@@ -7,12 +7,12 @@ const socialDetails = [
   {
     name: 'linkedin',
     classname: 'fab fa-linkedin fa-fw',
-    link: 'https://www.linkedin.com/in/djamaile/',
+    link: 'https://www.linkedin.com/in/manish-jaiswal1993/',
   },
   {
     name: 'github',
     classname: 'fab fa-github fa-fw',
-    link: 'https://github.com/djamaile',
+    link: 'https://github.com/jaiswalwrites',
   },
 ];
 

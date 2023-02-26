@@ -18,9 +18,9 @@ function HomepageHeader() {
         <Box sx={{ display: 'flex' }}>
           <Box m="auto">
             <Avatar
-              alt="Djamaile Rahamat"
+              alt="Manish Jaiswal"
               src={useBaseUrl('/img/pp.png')}
-              sx={{ width: 150, height: 150, m: 2 }}
+              sx={{ width: 350, height: 350, m: 2 }}
             />
           </Box>
         </Box>
@@ -33,7 +33,7 @@ function HomepageHeader() {
 
 export default function Home() {
   return (
-    <Layout title="Home" description="Blog of Djamaile Rahamat">
+    <Layout title="Home" description="Website of Manish Jaiswal">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

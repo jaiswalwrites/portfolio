@@ -16,16 +16,16 @@ const projects: Array<ProjectType> = [
     img: 'img/ourmanga.png',
     title: 'Docs for dApp Developers',
     description:
-      'Created docs from scratch for Onboarding users to blockchain-powered Auth, Storage, Privacy and Identity tech stacks.',
+      'Created docs from scratch to onboard users to blockchain-powered Auth, Storage, Privacy and Identity tech stacks.',
     codeLink: 'https://github.com/arcana-network/auth-mkdocs',
     liveLink: 'https://docs.arcana.network/',
     techstack: ['Blockchain', 'SDK docs', 'Ethereum', 'API docs'],
   },
   {
     img: 'img/kanji.png',
-    title: 'Docs for devOps admin and developers',
+    title: 'Docs for DevOps admin and developers',
     description:
-      'Part of early age startup phase and took the product to a successful GA. Later it became an unicorn.',
+      'Part of early age startup. Led the documentation and took the product to a successful GA. Later it became an unicorn.',
     codeLink: '',
     liveLink: 'https://developer.harness.io/docs/continuous-integration',
     techstack: ['Markdown', 'CI', 'Kubernetes', 'Docker','Containers'],

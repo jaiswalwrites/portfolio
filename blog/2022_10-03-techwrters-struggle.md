@@ -6,6 +6,7 @@ author_title: Technical Writer
 author_url: https://github.com/jaiswalwrites
 author_image_url: https://avatars.githubusercontent.com/u/15789670?v=4
 tags: [techwriting, engineering]
+date: 2022-12-26
 ---
 
 Recently, there have been various studies which mentions tech writer's struggle to make decent pay.

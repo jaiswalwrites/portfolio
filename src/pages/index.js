@@ -20,7 +20,7 @@ function HomepageHeader() {
             <Avatar
               alt="Manish Jaiswal"
               src={useBaseUrl('/img/pp.png')}
-              sx={{ width: 350, height: 350, m: 2 }}
+              sx={{ width: 350, height: 350, m: 1 }}
             />
           </Box>
         </Box>
@@ -37,7 +37,7 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
-      </main>
+      </main> 
     </Layout>
   );
 }

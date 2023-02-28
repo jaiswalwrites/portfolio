@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Manish Jaiswal',
   tagline:
-    'Senior Technical Writer | Docs Consultant | Content Strategist.',
+    'Writer Who Codes | Docs Consultant | Content Strategist.',
   url: 'https://manishjaiswal.in',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -84,7 +84,7 @@ module.exports = {
       },
       items: [
         { to: '/blog', label: 'Blog', position: 'left' },
-        { to: '/docs', label: 'Docs', position: 'left' },
+        
         {
           href: 'https://github.com/jaiswalwrites',
           label: 'GitHub',

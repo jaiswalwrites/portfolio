@@ -6,6 +6,7 @@ author_title: Senior technical Writer
 author_url: https://manishjaiswal.myfreesites.net
 author_image_url: https://avatars.githubusercontent.com/u/15789670?v=4
 tags: [Truffle, dApps, Ethereum, Blockchain]
+date: 2023-02-26
 ---
 
 This blog explores the benefits of using Truffle Suite for developers and provides a comprehensive guide on how to onboard and utilize the platform.

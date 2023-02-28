@@ -3,9 +3,10 @@ slug: using-chatGPt-in-docs
 title: ChatGPT in Product Docs
 author: Manish Jaiswal
 author_title: Senior Technical Writer
-author_url: https://github.com/djamailejaiswalwrites
+author_url: https://github.com/jaiswalwrites
 author_image_url: https://avatars.githubusercontent.com/u/15789670?v=4
 tags: [chatGPT, product, docs]
+date: 2023-01-20
 ---
 
 Whether you are a developer, product manager, or technical writer, this post will provide valuable insights into the use of ChatGPT in product documentation. #technicalwriting #docs #chatgpt #chatbot 

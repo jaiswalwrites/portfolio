@@ -14,6 +14,12 @@ const socialDetails = [
     classname: 'fab fa-github fa-fw',
     link: 'https://github.com/jaiswalwrites',
   },
+  {
+    name: 'twitter',
+    classname: 'fab fa-twitter fa-fw',
+    link: 'https://twitter.com/jaiswalwrites',
+  },
+
 ];
 
 const getHoverIconColor = (site: string): string => {

@@ -94,7 +94,7 @@ module.exports = {
       ],
     },
     googleAnalytics: {
-      trackingID: 'UA-204542359-2',
+      trackingID: 'G-YW6NR8C57J',
       anonymizeIP: true, // Should IPs be anonymized?
     },
     footer: {

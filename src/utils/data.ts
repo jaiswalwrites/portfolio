@@ -17,7 +17,7 @@ const projects: Array<ProjectType> = [
     title: 'Docs for dApp Developers',
     description:
       'Created docs from scratch to onboard users to blockchain-powered Auth, Storage, Privacy and Identity tech stacks.',
-    codeLink: 'https://github.com/arcana-network/auth-mkdocs',
+    codeLink: 'https://github.com/orgs/arcana-network/repositories',
     liveLink: 'https://docs.arcana.network/',
     techstack: ['Blockchain', 'SDK docs', 'Ethereum', 'API docs'],
   },
@@ -56,7 +56,7 @@ const experience: Array<ExperienceType> = [
     img: 'img/arcana.png',
     jobTitle: 'Blockchain Technical Writer',
     company: 'Arcana network',
-    date: 'March 2022 - pres',
+    date: 'March 2022 - April 2023',
     workLength: `${caculateWorkLength(new Date(2022, 1, 3), new Date())} mos`,
     location: 'Full-time Remote',
     tasks: ['Curating docs for dApp Developers'],
@@ -91,30 +91,12 @@ const experience: Array<ExperienceType> = [
     
     ],
   },
-  {
-    img: 'img/sst.png',
-    jobTitle: 'Senior Technical Writer Contract',
-    company: 'Honeywell',
-    date: 'Nov 2018 - Sep 2019',
-    workLength: '11 mos',
-    location: 'Bangalore',
-    tasks: [
-      'Curated docs for a wide variety of Industrial software products',
-    ],
-    techstack: [
-      'User Guide',
-      'Quick Reference Guide',
-      'installation Guide',
-      'admin Guide',
-      'API docs',
-    ],
-  },
-  {
+   {
     img: 'img/ssc.png',
     jobTitle: 'Technical Writer',
     company: 'KanTime Healthcare',
-    date: 'Jan 2016 - Oct 2018',
-    workLength: '2 yrs 10 mos',
+    date: 'Jan 2016 - Aug 2019',
+    workLength: '3 yrs 8 mos',
     location: 'Bangalore',
     tasks: [
       'Curated docs for a wide range of audience of healthcare industry',
